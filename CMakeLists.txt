@@ -106,6 +106,7 @@ set(COMMAND_HANDLER_SOURCES
         sdk_core/command_handler/general_command_handler.cpp
         sdk_core/command_handler/hap_command_handler.cpp
         sdk_core/command_handler/mid360_command_handler.cpp
+        sdk_core/command_handler/mid360s_command_handler.cpp
         sdk_core/command_handler/build_request.cpp
         sdk_core/command_handler/parse_lidar_state_info.cpp
         )
